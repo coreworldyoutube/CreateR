@@ -11,47 +11,47 @@
   "processingTime": 500,
   "results": [
     {
-      "chance": 0.05,
+      "chance": 0.07,
       "item": "create:crushed_raw_copper"
     },
     {
-      "chance": 0.05,
+      "chance": 0.06,
       "item": "create:crushed_raw_zinc"
     },
     {
-      "chance": 0.025,
+      "chance": 0.02,
       "item": "create:crushed_raw_gold"
     },
     {
-      "chance": 0.075,
+      "chance": 0.07,
       "item": "create:crushed_raw_iron"
     },
     {
-      "chance": 0.05,
+      "chance": 0.04,
       "item": "minecraft:lapis_lazuli"
     },
     {
-      "chance": 0.025,
+      "chance": 0.04,
       "item": "minecraft:diamond"
     },
     {
-      "chance": 0.025,
+      "chance": 0.03,
       "item": "minecraft:emerald"
     },
     {
-      "chance": 0.05,
+      "chance": 0.03,
       "item": "create:experience_nugget"
     },
     {
-      "chance": 0.05,
+      "chance": 0.01,
       "item": "create:crushed_raw_osmium"
     },
     {
-      "chance": 0.05,
+      "chance": 0.01,
       "item": "create:crushed_raw_platinum"
     },
     {
-      "chance": 0.05,
+      "chance": 0.01,
       "item": "create:crushed_raw_silver"
     },
     {
@@ -67,27 +67,27 @@
       "item": "create:crushed_raw_quicksilver"
     },
     {
-      "chance": 0.05,
+      "chance": 0.04,
       "item": "create:crushed_raw_aluminum"
     },
     {
-      "chance": 0.05,
+      "chance": 0.01,
       "item": "create:crushed_raw_uranium"
     },
     {
-      "chance": 0.05,
+      "chance": 0.02,
       "item": "create:crushed_raw_nickel"
     },
     {
-      "chance": 0.05,
+      "chance": 0.01,
       "item": "mekanism:fluorite_gem"
     },
     {
-      "chance": 0.05,
+      "chance": 0.02,
       "item": "ae2:certus_quartz_crystal"
     },
     {
-      "chance": 0.05,
+      "chance": 0.1,
       "item": "item": "minecraft:coal"
     }
   ]
