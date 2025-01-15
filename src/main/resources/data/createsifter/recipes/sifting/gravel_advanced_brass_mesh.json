@@ -87,8 +87,8 @@
       "item": "ae2:certus_quartz_crystal"
     },
     {
-      "chance": 0.1,
-      "item": "item": "minecraft:coal"
+      "chance": 0.09,
+      "item": "minecraft:coal"
     }
   ]
 }
