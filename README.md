@@ -2,6 +2,9 @@
 It is added moded mod.
 
 needed mods
-+ テキスト
-+ テキスト
-+ テキスト
++ Create
++ Create: sifting
+
+can use mods
++ Mekanism
++ AE2
