@@ -11,83 +11,83 @@
   "processingTime": 500,
   "results": [
     {
-      "chance": 0.1,
+      "chance": 0.05,
       "item": "create:crushed_raw_copper"
     },
     {
-      "chance": 0.1,
+      "chance": 0.05,
       "item": "create:crushed_raw_zinc"
     },
     {
-      "chance": 0.05,
+      "chance": 0.025,
       "item": "create:crushed_raw_gold"
     },
     {
-      "chance": 0.15,
+      "chance": 0.075,
       "item": "create:crushed_raw_iron"
     },
     {
-      "chance": 0.1,
+      "chance": 0.05,
       "item": "minecraft:lapis_lazuli"
     },
     {
-      "chance": 0.05,
+      "chance": 0.025,
       "item": "minecraft:diamond"
     },
     {
-      "chance": 0.02,
+      "chance": 0.025,
       "item": "minecraft:emerald"
     },
     {
-      "chance": 0.1,
+      "chance": 0.05,
       "item": "create:experience_nugget"
     },
     {
-      "chance": 0.1,
+      "chance": 0.05,
       "item": "create:crushed_raw_osmium"
     },
     {
-      "chance": 0.1,
+      "chance": 0.05,
       "item": "create:crushed_raw_platinum"
     },
     {
-      "chance": 0.1,
+      "chance": 0.05,
       "item": "create:crushed_raw_silver"
     },
     {
-      "chance": 0.1,
+      "chance": 0.05,
       "item": "create:crushed_raw_tin"
     },
     {
-      "chance": 0.1,
+      "chance": 0.05,
       "item": "create:crushed_raw_lead"
     },
     {
-      "chance": 0.1,
+      "chance": 0.05,
       "item": "create:crushed_raw_quicksilver"
     },
     {
-      "chance": 0.1,
+      "chance": 0.05,
       "item": "create:crushed_raw_aluminum"
     },
     {
-      "chance": 0.1,
+      "chance": 0.05,
       "item": "create:crushed_raw_uranium"
     },
     {
-      "chance": 0.1,
+      "chance": 0.05,
       "item": "create:crushed_raw_nickel"
     },
     {
-      "chance": 0.1,
+      "chance": 0.05,
       "item": "mekanism:fluorite_gem"
     },
     {
-      "chance": 0.1,
+      "chance": 0.05,
       "item": "ae2:certus_quartz_crystal"
     },
     {
-      "chance": 0.1,
+      "chance": 0.05,
       "item": "item": "minecraft:coal"
     }
   ]
