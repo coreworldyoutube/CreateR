@@ -48,47 +48,47 @@
     },
     {
       "chance": 0.1,
-      "create:crushed_raw_platinum"
+      "item": "create:crushed_raw_platinum"
     },
     {
       "chance": 0.1,
-      "create:crushed_raw_silver"
+      "item": "create:crushed_raw_silver"
     },
     {
       "chance": 0.1,
-      "create:crushed_raw_tin"
+      "item": "create:crushed_raw_tin"
     },
     {
       "chance": 0.1,
-      "create:crushed_raw_lead"
+      "item": "create:crushed_raw_lead"
     },
     {
       "chance": 0.1,
-      "create:crushed_raw_quicksilver"
+      "item": "create:crushed_raw_quicksilver"
     },
     {
       "chance": 0.1,
-      "create:crushed_raw_aluminum"
+      "item": "create:crushed_raw_aluminum"
     },
     {
       "chance": 0.1,
-      "create:crushed_raw_uranium"
+      "item": "create:crushed_raw_uranium"
     },
     {
       "chance": 0.1,
-      "create:crushed_raw_nickel"
+      "item": "create:crushed_raw_nickel"
     },
     {
       "chance": 0.1,
-      "mekanism:fluorite_gem"
+      "item": "mekanism:fluorite_gem"
     },
     {
       "chance": 0.1,
-      "ae2:certus_quartz_crystal"
+      "item": "ae2:certus_quartz_crystal"
     },
     {
       "chance": 0.1,
-      "item": "minecraft:coal"
+      "item": "item": "minecraft:coal"
     }
   ]
 }
