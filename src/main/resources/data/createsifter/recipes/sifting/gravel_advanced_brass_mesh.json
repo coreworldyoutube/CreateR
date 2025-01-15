@@ -80,11 +80,11 @@
     },
     {
       "chance": 0.1,
-      "create:crushed_raw_uranium"
+      "mekanism:fluorite_gem"
     },
     {
       "chance": 0.1,
-      "create:crushed_raw_uranium"
+      "ae2:certus_quartz_crystal"
     },
   ]
 }
